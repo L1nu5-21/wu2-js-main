@@ -69,6 +69,8 @@ function domManipulation (element) {
   // kod för att visa vad du lärt dig om DOM-manipulation
   // skapa element och lägga till och ta bort
   element.innerHTML = 'DOM manipulation, ändra och lägg till element'
+  
+
   let count = 0
 
   element.addEventListener('click', (e) => {
