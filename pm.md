@@ -12,12 +12,12 @@ Utöver momentet så har jag använt mig av en fori loop som skriver ut innehål
 
 ## Positiva erfarenheter
 
-- ( ͡° ͜ʖ ͡°)
-- ( ͡° ͜ʖ ͡°)
+- Kul att arbeta med det jag lärt mig hitils.
+- jag tyckte det gick ganska bra, så yeh.
 - ( ͡° ͜ʖ ͡°)
 
 ## Negativa erfarenheter
 
-- Jag vet inte riktigt hur man skapar element och annat med DOM.
-- ( ͡° ͜ʖ ͡°)
+- Jag vet inte riktigt hur man skapar element och annat med DOM, skulle gärna vilja höra mer om det.
+- Orelaterat till detta, men skulle vilja höra om Canvas med att jag hade itne möjlighet att vara med när vi gick igenom det.
 - ( ͡° ͜ʖ ͡°)
