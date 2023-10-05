@@ -62,6 +62,7 @@ function domAndEvents (element) {
   element.addEventListener('click', (e) => {
     count++
     console.log('Du tryckte på texten. du har tryckt på texten ', count, ' gånger.')
+    
   })
 }
 
@@ -69,11 +70,16 @@ function domManipulation (element) {
   // kod för att visa vad du lärt dig om DOM-manipulation
   // skapa element och lägga till och ta bort
   element.innerHTML = 'DOM manipulation, ändra och lägg till element'
-  
+  let thing = document.createElement('div')
 
   let count = 0
 
   element.addEventListener('click', (e) => {
+    element.appendChild(thing)
+    console.log(element)
+    
+    
+
     count++
     if (count == 1) element.textContent = 'Det är inte trevligt att trycka på en text utan att fråga först!'
     if (count == 2) element.textContent = 'Gör det inte igen!'
